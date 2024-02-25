@@ -13,12 +13,13 @@ Versions : 1.19.??
   <li>Omegle - Smile Dogs
     <ul>
       <li>Bloc de stone -> Poubelle</li>
-      <li>?? -> Ps5</li>
-      <li>?? -> Switch</li>
-      <li>?? -> Pc</li>
+      <li>Bloc d'Acacia -> Ps5</li>
+      <li>Dalle d'Acacia -> Switch</li>
+      <li>Bloc de Bamboo -> Pc</li>
       <li>Pomme de terre cuite -> Pringles</li>
       <li>Pomme de terre -> Boite de Pringles</li>
-      <li>?? -> Télé 8k OLED</li>
+      <li>Dalle d'Andésite -> Télé 8k OLED</li>
+      <li>Chien -> Smile dog</li>
     </ul>
   </li>  
 </ol>
